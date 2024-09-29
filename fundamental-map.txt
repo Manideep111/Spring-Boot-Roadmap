@@ -1,0 +1,100 @@
+What is Spring and Spring Boot?
+-> Spring Framework is an open-source Java framework that simplifies enterprise application development through Dependency Injection and Inversion Of Control.
+-> Spring Boot is build on top of Spring and it simplifies the development of Spring applications by providing auto-configuration and a set of pre-built libraries.
+Why Spring?
+->  Dependency Injection: Simplifies code, boosts testability.
+->  Modularity: Vast ecosystem of pick-and-choose libraries.
+->  Integration: Seamless compatability with Java ecosystem.
+->  Scalability: From simples APIs to enterprise applications, with ease
+->  Productivity: Rapid development.
+Pre-Requisites:-
+->  OOP Concepts
+->  Java Fundamentals
+->  Build Tool (Maven/Gradle)
+
+Roadmap:- 
+1) Core Concepts:-
+  -> Dependency Injection
+  -> Inversion Of Control(IoC)
+  -> IoC Container
+  -> Application Context
+  -> Beans and bean scopes
+2) Configuration:-
+  -> XML Based configuration
+  -> Annotation Based configuration
+  -> @ComponentScan
+  -> @Autowire and @Component
+3) Spring Boot:-
+  -> Spring Initializr
+  -> Auto Configuration
+  -> Spring boot starters
+  -> Embedded Servers
+  -> Actuator
+  -> Property configuration
+  -> Profiles(environment specific config)
+4) Spring MVC:-
+  -> MVC Architecture
+  -> Dispatcher servlet
+  -> Path variables and request parameters
+  -> @Controller
+  -> @RequestMapping annotations
+  -> Data binding and validation
+  -> View Technologies(JSP, Thymeleaf)
+  -> Filters adn interceptors
+5) RESTful services:-
+  -> REST principles
+  -> REST API  design
+  -> HTTP Methods (GET, POST, PUT, DELETE)
+  -> @RestController
+  -> Request and response marshalling
+  -> Content type negotiation
+  -> HATEOAS
+  -> Swagger/OpenAPI documentation
+  -> @ExceptionHandler @ControllerAdvice
+6) Database Access:-
+  -> JDBC
+  -> Java Persistence API(JPA)
+  -> Hibernate and other ORMs
+  -> Entity mappings with annotations
+  -> Repositories adn CRUD operations
+  -> Custom queries(SQL, HQL, JPQL)
+  -> Transactional management
+  -> Connection Pooling(HikariCP)
+  -> Caching
+7) Spring Security:-
+  -> Authentication
+  -> Authorization
+  -> Security context
+  -> Security filter chain
+  -> Hashing and password encoding
+  -> Method-level security
+  -> JSON Web Token(JWT)
+  -> OAuth2
+  -> OpenID connect
+  -> CSRF and CORS
+8) Spring AOP:-
+  -> Cross-Cutting Concerns
+  -> Aspect
+  -> Advice and advice types
+  -> Pointcut expressions
+  -> AOP proxies
+9) Testing:-
+  -> Junit 5
+  -> Mockito with Mockito and Powermock
+  -> Spring test framework
+10) Microservices (Spring Cloud):-
+  -> Microservices architecture
+  -> Spring cloud
+  -> Service discovery
+  -> API gateway and load balancing
+  -> Resiliency Patterns
+  -> Distributed configuration and tracing 
+  -> Distributed transactions
+  -> Service mesh
+  -> Event driven architecture
+11) Other Topics:-
+  -> Reactive programming(Webflux)
+  -> Spring Batch
+  -> Spring messaging(kafka, RabbitMQ)
+  -> Spring Integration
+
